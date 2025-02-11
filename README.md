@@ -4,9 +4,8 @@ This project aims to optimize pharmacy operations, enhance inventory control, an
 # Architecture Diagram
 ![Architecture Diagram](https://github.com/PrantikGhosh/PharmacyManagement_DBMS/assets/84172492/b9370bfa-dfe6-4b37-b9ed-0d033d52e08e)
 
-# Relational Table and Schema
+# Relational Table
 ![Relational Table](https://github.com/PrantikGhosh/PharmacyManagement_DBMS/assets/84172492/589e5b0f-8d4a-4984-b949-18d71c6f2046)
-![Relational Schema](https://github.com/PrantikGhosh/PharmacyManagement_DBMS/assets/84172492/e9cfc2ab-c001-4f09-af80-916f89273e3d)
 
 # Installation and Usage
 To get started, clone the repository, set up the database using the provided schema, install the necessary dependencies, and run the application. The admin dashboard allows for inventory management, sales and purchase tracking, and user activity monitoring, while the employee interface provides access to patient information, medication dispensing, and communication tools.
